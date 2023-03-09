@@ -4,6 +4,13 @@
 // `nodeIntegration` is turned off. Use `preload.js` to
 // selectively enable features needed in the rendering
 // process.
+
+// DESTINY Autonimous Artificial Intelligence Programme (Python 3).
+// Copyright (c) 2012 - End Of Times | OUR DESTINY (A.A.I) Research And Development Labs,Inc.
+// All rights reserved. This software or any portion thereof may not be reproduced or used in any manner whatsoever without the development permission of the ODRE Labs, Inc.
+// Permission for the development of the software is Authorized ONLY for the developers of ODRD Labs, Inc.
+// Author: OUR DESTINY (A.A.I) Research And Development Labs <hariprasad@ODRDLabs>|<ribin@ODRDLabs>
+
 console.log("Renderer started");
 let {PythonShell} = require('python-shell')
 var sqlite3 = require('sqlite3').verbose();
