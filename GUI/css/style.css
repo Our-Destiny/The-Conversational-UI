@@ -1,0 +1,216 @@
+* {
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+@font-face {
+	font-family: 'adam';
+	src: url('./ADAM.CG PRO.otf') format("opentype");
+	font-weight: bold;
+	font-style: initial;
+}
+
+body{
+	position: relative;
+	display: block;
+	margin: 0;
+	padding: 0;
+	top: 25px;
+	width: 340px;
+	height: 610px;
+	background-color: transparent;
+	background-image: url("./../images/background-3.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position:left top;
+	background-origin: content-box;
+	opacity: 1;
+}
+
+header.header1{
+	overflow: hidden;
+	padding-bottom: 80px;
+	font-family: 'adam';
+	max-height: 110px;
+	max-width: 350px;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-right: 29px;
+	padding-left: 27px;
+	z-index: 1;
+	background-color: inherit;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	-webkit-user-select: none;
+    -webkit-app-region: drag;	
+}
+
+.header1 hl{ 
+	position: absolute;
+	/*display: block;*/
+	font-family: 'adam';
+	left: 24%;
+	top: 70px;
+	padding-top: 0px;
+	font-size: 30px;
+	z-index: 2;
+	background-color: inherit;
+	color: #00fff2;
+	text-shadow:5px 5px 10px rgba(10, 171, 177, 0.884);
+}
+
+.header1 button{
+   	background-color: inherit;
+   	z-index: 2;
+	padding: 15px;
+	margin-top: 20px;
+	outline: none;
+	border: none;
+	cursor: pointer;
+}
+
+button {
+	-webkit-app-region: no-drag;
+}
+
+.header1 button#close-window-button{
+	float: right;
+	margin-left: 65px;
+	padding-bottom: 6px;
+	border-radius:0 15px 0 30px;
+}
+
+.header1 button#minimize-window-button{
+	float: left;
+	margin-right: 65px;
+	padding-bottom: 6px;
+	border-radius:15px 0 30px 0;
+}
+
+
+.header1 button:hover {
+	background-color: black;
+	border: 2px solid #00fff2;	
+	text-decoration: none;
+}
+  
+.header1 button#close-window-button:active {
+	background-color: #eb4444;
+}
+  
+.header1 button#minimize-window-button:active {
+	background-color: #41f5ec;
+}
+
+
+div.texty{
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	width: 220px;
+	height: 65px;
+	top: 235px;
+	margin-left: 60px;
+	background-color: inherit;
+}
+
+.texty h3#texty0{
+	overflow: hidden;
+	position: relative;
+	margin: 3px 0;
+	font-family: 'adam'; 
+	font-weight: bold;
+	font-size: 10px;
+	color: #00fff2;
+	opacity: 0.7;
+	text-align: center;	
+	}	
+
+	.texty h3#texty1{
+		overflow: hidden;
+		position: relative;
+		top:5px;
+		margin: 3px 0;
+		font-family: 'adam'; 
+		font-weight: bold;
+		font-size: 10px;
+		color: #00fff2;
+		opacity: 1;
+		text-align: center;	
+		}
+
+div.search_box{
+	overflow: hidden;
+	position: relative;
+	width: 340px;
+	height: 70px;
+	top: 250px;
+	margin-left: 15px;
+	padding-bottom: 0;
+	align-content: center;
+	background-color: inherit;
+}
+  
+  .search_box input[type="text"]{
+	display: block; 
+	font-family: 'adam'; 
+	font-weight: bold;
+	width: 60%;
+	top: 5%;
+	margin-left: 55px;
+	padding: 8px;
+	box-sizing: border-box;
+	background-color: inherit;
+	border: 2px solid;
+	border-color: #00fff2;
+	border-radius: 10px;
+	font-size: 10px;
+	color:  #00fff2;
+	outline: none;	
+}
+  
+  .search_box input[type="submit"]{
+	position: absolute;
+	display: inline-block;
+	transform: translateY(-28px);
+	padding: 2px;
+	right: 45px;
+	visibility: hidden;
+}
+  
+  ::-webkit-input-placeholder {
+	/* Chrome/Opera/Safari */
+	color: #00fff2;
+}
+  ::-moz-placeholder {
+	/* Firefox 19+ */
+	color: #00fff2;
+}
+  :-ms-input-placeholder {
+	/* IE 10+ */
+	color:  #00fff2;
+}
+  
+  @media screen and (max-width: 425px){
+	.search_box{
+	  width: 40%;
+	}
+  }
+
+ footer{
+	position: absolute;
+	font-family: 'adam'; 
+	font-weight: bold;
+	font-size: 8px;
+	padding: 0;
+	margin: 0;
+	width: 220px;
+	height: 70px;
+	margin-left: 58px;
+	bottom: 40px;
+   background-color:inherit;
+   color: #00fff2;
+   text-align: center;
+ } 

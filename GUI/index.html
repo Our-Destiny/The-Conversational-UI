@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'unsafe-inline' 'self'; script-src 'unsafe-inline' 'self'; script-src-elem 'unsafe-inline';img-src 'self'; style-src 'unsafe-inline'; style-src-elem 'self' https://fonts.googleapis.com ;font-src 'self' https://fonts.gstatic.com ;">
+    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <link rel="stylesheet" href="./css/style.css" >
+    <title>Hello World!</title>
+  </head>
+  <body>
+      <header class="header1">
+        <hl>D E S T I N Y</hl>
+        <button id="close-window-button"><img src="./images/multiply-32.png" width="10" height="10"></button>
+        <button id="minimize-window-button"><img src="./images/minus-32.png" width="10" height="10"></button>
+      </header>
+      <div class="texty">
+            <h3 id="texty0"></h3>
+            <h3 id="texty1">DESTINY</h3>
+      </div>
+      <section id="section1" ></section>
+        <div class="search_box" >
+          <form id="myForm" >
+            <input id="in" type="text" placeholder="Enter Your Text" aria-label="Search">
+            <input type="submit" id="myInput">
+         </form>
+        </div>
+      <footer>V.0.0.8  BETA</footer>
+      <!-- You can also require other files to run in this process -->
+      <script>
+         require('./js/renderer.js');
+      </script>
+  </body>
+</html>

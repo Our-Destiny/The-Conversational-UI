@@ -1,0 +1,33 @@
+{
+  "name": "Destiny_FrameWork",
+  "version": "1.0.0",
+  "description": "A minimal Destiny application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "postinstall": "install-app-deps",
+    "rebuild": "electron-rebuild -f -w sqlite3",
+    "test": "echo hello from destiny"
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Destiny",
+    "Beta",
+    "under",
+    "Development",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^8.2.5",
+    "electron-builder": "^22.6.0",
+    "electron-rebuild": "^1.10.1",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "python-shell": "^1.0.8",
+    "sqlite3": "^4.2.0"
+  }
+}
