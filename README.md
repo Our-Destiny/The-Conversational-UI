@@ -13,7 +13,7 @@
 
 # The Conversational User Interface For Destiny
 
-`This repository contains the fist phase of basic rule-based skeleton integrated into a simple light weight GUI for Destiny.`
+`This repository contains the first phase of basic rule-based skeleton integrated into a simple light weight GUI for Destiny.`
 
 ---
 
