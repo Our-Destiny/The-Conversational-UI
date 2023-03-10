@@ -21,10 +21,6 @@
 
 
 
-# Destiny-Version-0.0.8,0.0.9,0.1.0
-
-
-
 A Python based simple Personal Assistant with majour step taken in the development of GUI for Project Destiny.
 In this respo, you will be looking at the basic skelton with some shell commands and its corresponding responses integrated into a electron app build using Node.js.
 In theory, Destiny is an Autonomus Artificial Intelligence Based Digital Assistant designed to
