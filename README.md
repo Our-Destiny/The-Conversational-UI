@@ -13,7 +13,7 @@
 
 # The Conversational User Interface For Destiny
 
-`This repository contains the initial steps taken and [The First 10 Lines of Code Created] by the founders M.S Hariprasad and Ribin Baby as a part of learning to create a basic rule-based skeleton for Destiny.`
+`This repository contains the fist phase of basic rule-based skeleton integrated into a simple light weight GUI for Destiny.`
 
 ---
 
