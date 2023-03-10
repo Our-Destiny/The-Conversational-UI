@@ -1,3 +1,25 @@
+<a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny/Destiny-The-Birth/blob/main/Assets/Birth-Of-Destiny-Wall.png" height="175px"/></a>
+
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Build%20Date-2019%20Jun%2006-blue?style=social&logo=jabber">
+    <img alt="Build" src="https://img.shields.io/badge/build-passed-success">
+    <img alt="Contributors" src="https://img.shields.io/badge/contributors-2-blue">
+    <img alt="Status" src="https://img.shields.io/badge/status-working-success">
+    <img alt="Status" src="https://img.shields.io/badge/current%20release-v0.08%20to%20v0.1.0-informational">
+    <img alt="Status" src="https://img.shields.io/badge/progress-discontinued-important">
+</p>
+
+
+# The Conversational User Interface For Destiny
+
+`This repository contains the initial steps taken and [The First 10 Lines of Code Created] by the founders M.S Hariprasad and Ribin Baby as a part of learning to create a basic rule-based skeleton for Destiny.`
+
+---
+
+
+
+
 
 # Destiny-Version-0.0.8,0.0.9,0.1.0
 
