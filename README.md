@@ -34,15 +34,16 @@ Frontend Is Called : Destiny Framework.
 
 ## Code Organization
 
-    FrameWork                <- Test the performance of a trained model on the DEV dataset
-        Main_Frame              <- Configuration file with data directories and hyperparamters to train the model
-        ├── config.py           <- Configuration file with data directories and hyperparamters to train the model
-        ├── data_loader.py      <- Define an iterator who collects batches of data to train the model
-        ├── eval.py             <- Evaluate the model on a new pair of (context, question)
-        ├── layers.py           <- Define the various layers to be used by the main BiDAF model
-        ├── make_dataset.py     <- Download the SquAD dataset and pre-process the data for training
-        ├── model.py.           <- Define the BiDAF model architecture
-        ├── requirements.txt    <- Required Python libraries to build the project
+    Destiny_FrameWork        <- Destiny's GUI(Front-End) is known as Framework. An Electron.js based User Interface.
+        Destiny_Main_Frame                  <- Destiny's (Back-End) is known as Main_Frame.
+            Destiny_Speech_Drive                <- Destiny's Text-To-Speech Engine (Module Dir).
+            ├── DSD.py                          <- Configuration python script for initializing pyttsx3.       
+        ├── Destiny_Intro.py                <- Contains configuration of Introduction for initialization of Destiny.
+        ├── Destiny_Protocols.py            <- Executable Fucntions definition script for ease of expansion.
+        ├── Destiny_TTS_Input_Text.py       <- Initialization variables.
+        ├── Destiny_Threader.py             <- A Threader for Speech and Printing Text syncronously.
+        ├── Destiny_User_Custom_Input.py    <- A User input function for Destiny.
+        ├── Destiny_update_db.py            <- A database schema for chatterbot corpus.
     ├── main.js              <- Test the performance of a trained model on the DEV dataset
     ├── package-lock.json    <- Train a model using the TRAIN dataset only
     ├── package.json         <- Group a bunch of useful functions to process the data
