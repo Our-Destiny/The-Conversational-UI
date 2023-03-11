@@ -13,7 +13,8 @@
 
 # A Conversational User Interface For Destiny
 
-> Disclaimer
+> Disclaimer : `There wont be source code releases for the newer versions.` Project Destiny is not an open-sourced Project, and you will be only witnessing the results and milestones of development that we have and are yet to be completed. Major Updates includes newer architectural designs as well as Introduction to Neural Schema. Thank You.
+
 
 `This repository contains the first phase of basic rule-based skeleton integrated into a simple light weight GUI for Destiny.`
 
@@ -28,8 +29,7 @@ Introduces new terms for backend and frontend.
 Backend Is Called : Destiny Mainframe.
 Frontend Is Called : Destiny Framework.
 
-**There wont be source code releases for the newer versions.
-Documentations and test results will be published. Major Updates are launching which includes newer architectural designs as well as Introduction to Neural Scheme. Will be looking at all this in the future updates**
+
 ## Features
 
 - Cross-platform targeted design configuration.
