@@ -13,7 +13,7 @@
 
 # A Conversational User Interface For Destiny
 
-> Disclaimer : `There wont be source code releases for the newer versions.` Project Destiny is not an open-sourced Project, and you will be only witnessing the results and milestones of development that we have and are yet to be completed. Major Updates includes newer architectural designs as well as Introduction to Neural Schema. Thank You.
+> Disclaimer : `There wont be source code releases for the newer versions.` Project Destiny is not an open-sourced Project, and you will be only witnessing the results and milestones of development that we have and are yet to be completed. Thank You.
 
 
 `This repository contains the first phase of basic rule-based skeleton integrated into a simple light weight GUI for Destiny.`
@@ -26,6 +26,7 @@ In theory, Destiny is an Autonomus Artificial Intelligence Based Digital Assista
 enhance human life and ensure privacy to data and security to life.
 Evolution is the version control for this project. 
 Introduces new terms for backend and frontend.
+
 Backend Is Called : Destiny Mainframe.
 Frontend Is Called : Destiny Framework.
 
