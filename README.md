@@ -39,7 +39,9 @@ DESTINY | HONEY
 WHATS THE TIME
 PLAY MUSIC
 THANK YOU
-
+SHUTDOWN
+RESTART
+CHATTERBOT - COMMANDS (FOR NATURAL CONVERSATION) | CHATTERBOT CORPUS COMMANDS
 BYE | QUIT
 ```
 ---
@@ -89,56 +91,23 @@ https://nodejs.org/en/download/
 
 ```
 
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-## Installation
-
-Install python interpreter version
-
+**Download Electron.js - For Windows**
 ```bash
-Python Version 3.7.6
-
+https://www.electronjs.org/
 ```
-Library used for text to speech
 
-```bash
-pip install pyttsx3==2.7
-
-```
-Ivona Voice Used
-```bash
-IVONA 2 Salli - US English female voice [22kHz]
-
-```
-Node.js - For Windows
-```bash
-https://nodejs.org/en/download/
-
-```
-Npm Install From Project Folder
+**Install necessary packages using NPM from the project Folder**
 ```bash
 npm install
 
 ```
-To Kick-Start The GUI
+**After the complete installation of the required modules, runn the following command to Kick-Start the GUI**
 ```bash
 npm start
 
 ```
+---
+
 
 ## Screenshots
 
@@ -161,3 +130,17 @@ npm start
 ![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_5.png)
 
 **>Transparency Test**
+
+## Supported Environments
+
+|                         |                                         |
+|-------------------------|-----------------------------------------|
+| **Operating systems**   | Linux & Windows                         |
+| **Python versions**     | Python 3.7.6 (64-bit)                   |
+| **Distros**             | Ubuntu, Windows 8, 8.1 Pro, 10 (All Distros)         |
+| **Package managers**    | APT, pip                                |
+| **Languages**           | English                                 |
+| **System requirements** | 2GB of free RAM, Intel i3 - Any Higher  |
+|                         |                                         |
+
+---
