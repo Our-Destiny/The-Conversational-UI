@@ -32,24 +32,6 @@ Frontend Is Called : Destiny Framework.
 
 ---
 
-## Code Organization
-
-    Destiny_FrameWork        <- Destiny's GUI(Front-End) is known as Framework. An Electron.js based User Interface.
-        Destiny_Main_Frame                  <- Destiny's (Back-End) is known as Main_Frame.
-            Destiny_Speech_Drive                <- Destiny's Text-To-Speech Engine (Module Dir).
-            ├── DSD.py                          <- Configuration python script for initializing pyttsx3.       
-        ├── Destiny_Intro.py                <- Contains configuration of Introduction for initialization of Destiny.
-        ├── Destiny_Protocols.py            <- Executable Fucntions definition script for ease of expansion.
-        ├── Destiny_TTS_Input_Text.py       <- Initialization variables.
-        ├── Destiny_Threader.py             <- A Threader for Speech and Printing Text syncronously.
-        ├── Destiny_User_Custom_Input.py    <- A User input function for Destiny.
-        ├── Destiny_update_db.py            <- A database schema for chatterbot corpus.
-    ├── main.js              <- This is the main Java Script that binds the Front-end and Back-end together. 
-    ├── package-lock.json    <- Installation Packages List Lock File.
-    ├── package.json         <- Installation Packages List.
-
----
-
 ## Built-in Commands
 
 ```
@@ -81,7 +63,23 @@ BYE | QUIT
 
 ---
 
+## Code Organization
 
+    Destiny_FrameWork        <- Destiny's GUI(Front-End) is known as Framework. An Electron.js based User Interface.
+        Destiny_Main_Frame                  <- Destiny's (Back-End) is known as Main_Frame.
+            Destiny_Speech_Drive                <- Destiny's Text-To-Speech Engine (Module Dir).
+            ├── DSD.py                          <- Configuration python script for initializing pyttsx3.       
+        ├── Destiny_Intro.py                <- Contains configuration of Introduction for initialization of Destiny.
+        ├── Destiny_Protocols.py            <- Executable Fucntions definition script for ease of expansion.
+        ├── Destiny_TTS_Input_Text.py       <- Initialization variables.
+        ├── Destiny_Threader.py             <- A Threader for Speech and Printing Text syncronously.
+        ├── Destiny_User_Custom_Input.py    <- A User input function for Destiny.
+        ├── Destiny_update_db.py            <- A database schema for chatterbot corpus.
+    ├── main.js              <- This is the main Java Script that binds the Front-end and Back-end together. 
+    ├── package-lock.json    <- Installation Packages List Lock File.
+    ├── package.json         <- Installation Packages List.
+
+---
 
 
 ## Prerequisite Installation
