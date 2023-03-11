@@ -30,27 +30,79 @@ Introduces new terms for backend and frontend.
 Backend Is Called : Destiny Mainframe.
 Frontend Is Called : Destiny Framework.
 
+---
+
+## Built-in Commands
+
+```
+DESTINY | HONEY
+WHATS THE TIME
+PLAY MUSIC
+THANK YOU
+
+BYE | QUIT
+```
+---
 
 ## Features
 
-- Cross-platform targeted design configuration.
+- `Cross-platform` targeted design configuration.
 - Simple speech engine and easy to configure.
-- Sapi5 Voice Support.
-- Uses Ivona Text To Speech Engine Voices.
-- Works Completely Offline.
-- Animated print support for text to speech.
-- Engine definition as global function so that it can be called and used anywhere.
-- Introduction To Threading.
-- Adaptive Intro Function (Greet By Time).
-- User Input Function Definition.
-- Added Shell Commands.
-- A New Decision Tree.
-- #New Core Feature - GUI - Designed For Crossplatform usages.
-- #New feature - Transparent GUI (So it doesnt block your vision and can keep u occupied with your work).
-- #New feature - GUI Design Is Clean And Made Compact Ready With Minimal System Resourse Usages.
-- #New feature - Responsive Buttons.
-- #New feature - System Control Functions Added.
-- #Exclusive feature - Play Music.
+- `Sapi5` voice support.
+- Uses `Ivona Text To Speech Engine` Voices.
+- `Works Completely Offline.`
+- Threaded Speech with Printing on command line.
+- Adaptive Hotword Reply (Greet By Time).
+- Added Shell Commands (Trial for system integrated functions like - Shutdown & Restart).
+- GUI - `Designed For Crossplatform usages.`
+- `Transparent GUI` (So it doesnt block your vision and can keep u occupied with your work).
+- GUI design is clean and made compact ready with `Minimal System Resourse Usages.`
+- GUI - `Responsive Buttons.`
+
+---
+
+
+
+
+## Prerequisite Installation
+
+**Install Python Version 3.7.6 - 64Bit Interpreter**
+
+```bash
+https://www.python.org/downloads/release/python-376/
+
+```
+**Pip Command to install the Library used for Text-to-Speech**
+
+```bash
+pip install pyttsx3==2.7
+
+```
+**Download IVONA 2 Salli - US English female voice [22kHz]**
+```bash
+https://nextup.com/ivona/
+
+```
+**Download Node.js - For Windows**
+```bash
+https://nodejs.org/en/download/
+
+```
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
 
 
 ## Installation
