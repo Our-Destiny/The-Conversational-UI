@@ -11,15 +11,13 @@
 </p>
 
 
-# The Conversational User Interface For Destiny
+# A Conversational User Interface For Destiny
+
+> Disclaimer
 
 `This repository contains the first phase of basic rule-based skeleton integrated into a simple light weight GUI for Destiny.`
 
 ---
-
-
-
-
 
 A Python based simple Personal Assistant with majour step taken in the development of GUI for Project Destiny.
 In this respo, you will be looking at the basic skelton with some shell commands and its corresponding responses integrated into a electron app build using Node.js.
