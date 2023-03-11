@@ -44,9 +44,9 @@ Frontend Is Called : Destiny Framework.
         ├── Destiny_Threader.py             <- A Threader for Speech and Printing Text syncronously.
         ├── Destiny_User_Custom_Input.py    <- A User input function for Destiny.
         ├── Destiny_update_db.py            <- A database schema for chatterbot corpus.
-    ├── main.js              <- Test the performance of a trained model on the DEV dataset
-    ├── package-lock.json    <- Train a model using the TRAIN dataset only
-    ├── package.json         <- Group a bunch of useful functions to process the data
+    ├── main.js              <- This is the main Java Script that binds the Front-end and Back-end together. 
+    ├── package-lock.json    <- Installation Packages List Lock File.
+    ├── package.json         <- Installation Packages List.
 
 ---
 
