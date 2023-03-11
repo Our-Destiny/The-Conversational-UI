@@ -13,7 +13,7 @@
 
 # A Conversational User Interface For Destiny
 
-> Disclaimer : `There wont be source code releases for the newer versions.` Project Destiny is not an open-sourced Project, and you will be only witnessing the results and milestones of development that we have and are yet to be completed. Thank You.
+> Disclaimer : `There won't be source code releases for the newer versions.` Project Destiny is not an open-sourced Project, and you will be only witnessing the results and milestones of development that we have and are yet to be completed. Thank You.
 
 
 `This repository contains the first phase of basic rule-based skeleton integrated into a simple light weight GUI for Destiny.`
@@ -29,6 +29,21 @@ Introduces new terms for backend and frontend.
 
 Backend Is Called : Destiny Mainframe.
 Frontend Is Called : Destiny Framework.
+
+---
+
+## Code Organization
+
+    ├── config.py          <- Configuration file with data directories and hyperparamters to train the model
+    ├── data_loader.py     <- Define an iterator who collects batches of data to train the model
+    ├── eval.py            <- Evaluate the model on a new pair of (context, question)
+    ├── layers.py          <- Define the various layers to be used by the main BiDAF model
+    ├── make_dataset.py    <- Download the SquAD dataset and pre-process the data for training
+    ├── model.py.          <- Define the BiDAF model architecture
+    ├── requirements.txt   <- Required Python libraries to build the project
+    ├── test.py            <- Test the performance of a trained model on the DEV dataset
+    ├── train.py           <- Train a model using the TRAIN dataset only
+    ├── utils.py           <- Group a bunch of useful functions to process the data
 
 ---
 
@@ -90,12 +105,11 @@ https://nextup.com/ivona/
 https://nodejs.org/en/download/
 
 ```
-
 **Download Electron.js - For Windows**
 ```bash
 https://www.electronjs.org/
-```
 
+```
 **Install necessary packages using NPM from the project Folder**
 ```bash
 npm install
@@ -144,3 +158,5 @@ npm start
 |                         |                                         |
 
 ---
+
+> ***And The Journey Of Our Destiny Continues....***
