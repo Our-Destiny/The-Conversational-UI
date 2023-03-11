@@ -34,16 +34,18 @@ Frontend Is Called : Destiny Framework.
 
 ## Code Organization
 
-    ├── config.py          <- Configuration file with data directories and hyperparamters to train the model
-    ├── data_loader.py     <- Define an iterator who collects batches of data to train the model
-    ├── eval.py            <- Evaluate the model on a new pair of (context, question)
-    ├── layers.py          <- Define the various layers to be used by the main BiDAF model
-    ├── make_dataset.py    <- Download the SquAD dataset and pre-process the data for training
-    ├── model.py.          <- Define the BiDAF model architecture
-    ├── requirements.txt   <- Required Python libraries to build the project
-    ├── test.py            <- Test the performance of a trained model on the DEV dataset
-    ├── train.py           <- Train a model using the TRAIN dataset only
-    ├── utils.py           <- Group a bunch of useful functions to process the data
+    FrameWork                <- Test the performance of a trained model on the DEV dataset
+        Main_Frame              <- Configuration file with data directories and hyperparamters to train the model
+        ├── config.py           <- Configuration file with data directories and hyperparamters to train the model
+        ├── data_loader.py      <- Define an iterator who collects batches of data to train the model
+        ├── eval.py             <- Evaluate the model on a new pair of (context, question)
+        ├── layers.py           <- Define the various layers to be used by the main BiDAF model
+        ├── make_dataset.py     <- Download the SquAD dataset and pre-process the data for training
+        ├── model.py.           <- Define the BiDAF model architecture
+        ├── requirements.txt    <- Required Python libraries to build the project
+    ├── main.js              <- Test the performance of a trained model on the DEV dataset
+    ├── package-lock.json    <- Train a model using the TRAIN dataset only
+    ├── package.json         <- Group a bunch of useful functions to process the data
 
 ---
 
