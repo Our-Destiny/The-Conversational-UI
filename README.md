@@ -191,4 +191,4 @@ npm start
 
 ---
 
-> ***And The Journey Of Our Destiny Continues....***
+> ***“The technology you use impresses no one. The experience you create with it is everything.”*** – **Sean Gerety**
