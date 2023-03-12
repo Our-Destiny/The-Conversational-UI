@@ -160,7 +160,7 @@ npm start
 
 > **`Test Run Video - Click on the thumbnail to Watch (Inclusive of ChatterBot)`** 
     <hr></hr>
-    <a href="https://drive.google.com/file/d/1NmHWfySrdFPR8IZYOe3mE4F07nwmu1_z/view?usp=sharing"><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Video%20Thumb%20For%20UI%20Demo.png" height="175px"/></a>
+    <a href="https://drive.google.com/file/d/1NmHWfySrdFPR8IZYOe3mE4F07nwmu1_z/view?usp=sharing"><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Video-Thumb-For-UI-Demo.png" height="175px"/></a>
     <details><summary>Read more...</summary></br>
     <p>This demonstration video includes basic Shell commands execution and the chatterBot conversation test.<hr></hr></p></details>
 
