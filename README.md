@@ -144,11 +144,19 @@ npm start
 
 ## Destiny's Framework Test Results
 
-> **Framework's Basic Appearence** 
+> **`Framework's Basic Appearence.`** 
     <hr></hr>
     <a><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Test_1.jpg" height="175px"/></a>
     <details><summary>Read more...</summary></br>
     <p>The basic user interface is made clean slate with minimal windowsize and transparent background. The GUI consists of a text input label box which is button free so that you can enter the commands directly     using the "Enter" key. The minimalistic GUI with lower opacity helps to work as overlay on your workspace across the desktop when you needed her. The glowy Sci-fi look makes it Futuristic.<hr></hr></p></details>
+
+<hr></hr>
+
+> **`Framework's transparency test and use case.`** 
+    <hr></hr>
+    <a><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Test_5.png" height="175px"/></a>
+
+
 
 ## Feature And Performance Test Results
 
