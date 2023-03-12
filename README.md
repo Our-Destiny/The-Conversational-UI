@@ -39,8 +39,9 @@ DESTINY | HONEY
 WHATS THE TIME
 PLAY MUSIC
 THANK YOU
-SHUTDOWN
+SHUTDOWN | KILL POWER
 RESTART
+LOGOFF | INITIATE SECURITY LOCKDDOWN | SECURITY LOCKDOWN
 CHATTERBOT - COMMANDS (FOR NATURAL CONVERSATION) | CHATTERBOT CORPUS COMMANDS
 BYE | QUIT
 ```
@@ -75,6 +76,17 @@ BYE | QUIT
         ├── Destiny_Threader.py             <- A Threader for Speech and Printing Text syncronously.
         ├── Destiny_User_Custom_Input.py    <- A User input function for Destiny.
         ├── Destiny_update_db.py            <- A database schema for chatterbot corpus.
+        GUI                                 <- Destiny's Front-end dependency scripts and resources
+            css                                 <- Destiny's GUI styling script.
+            ├── style.css                       <- Styling Config for index.html.
+            ├── ADAM.CG PRO.otf                 <- Font style used in the UI (Official Font).
+            images                              <- Contains the background images and icons for the GUI(We wont be branching-out here).
+            js                                  <- Includes the GUI animations and behaviour definition script(Java script).
+            ├── preload.js                      <- PreloadJS provides a consistent way to preload content for use in HTML applications.
+            ├── renderer.js                     <- The purpose of the function is to display the specified HTML code inside the specified HTML element.
+            ├── returnResp.sqlite               <- The dp that binds the Front-end and Back-end (Handles input and responses).
+        ├── index.html                      <- Contains the UI Overall Layout.
+        ├── index.js.map                    <- The Map object is a simple key/value map.
     ├── main.js              <- This is the main Java Script that binds the Front-end and Back-end together. 
     ├── package-lock.json    <- Installation Packages List Lock File.
     ├── package.json         <- Installation Packages List.
@@ -94,6 +106,12 @@ https://www.python.org/downloads/release/python-376/
 
 ```bash
 pip install pyttsx3==2.7
+
+```
+**Pip Command to install the Library used for ChatterBot**
+
+```bash
+pip install ChatterBot
 
 ```
 **Download IVONA 2 Salli - US English female voice [22kHz]**
