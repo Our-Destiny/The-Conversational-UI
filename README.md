@@ -172,7 +172,7 @@ npm start
     <hr></hr>
     <a><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Test_4.png" height="175px"/></a>
     <details><summary>Read more...</summary></br>
-    <p>The GUI has only allocated 20mb of RAM for the current test run as the functions are minimal. There might be chances of slight increase in resource consumption when background monitoring and additional functions gets implemented. This beta version is not the final review for how the interfaces are to be like. Stay tuned for further updates.<hr></hr></p></details>
+    <p>The GUI has only allocated 20mb of RAM for the current test run as the functions are minimal. There might be chances of slight increase in resource consumption when background monitoring and additional functions gets implemented. This beta version is not the final review for how the interfaces are to be like. Stay tuned for further updates in the Future.<hr></hr></p></details>
 
 ---
 
