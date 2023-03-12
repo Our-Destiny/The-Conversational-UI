@@ -144,8 +144,11 @@ npm start
 
 ## Test Results
 
-> **GUI Basic Appearence** <details><summary>View the screenshot</summary></br>
-    <p><a href="no"><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Test_1.jpg" height="175px"/></a><hr></hr></p></details>
+> **GUI Basic Appearence** 
+    <hr></hr>
+    <a href="no"><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Test_1.jpg" height="175px"/></a>
+    <details><summary>Read more...</summary></br>
+    <p>Hello Sir<hr></hr></p></details>
 
 ## Feature And Performance Test Results
 
