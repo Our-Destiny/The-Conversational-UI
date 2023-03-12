@@ -158,23 +158,12 @@ npm start
     <hr></hr>
     <a><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Test_5.png" height="175px"/></a>
 
+> **`Test Run Video - Click on the thumbnail to Watch (Inclusive of ChatterBot)`** 
+    <hr></hr>
+    <a href="https://drive.google.com/file/d/1NmHWfySrdFPR8IZYOe3mE4F07nwmu1_z/view?usp=sharing"><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Video%20Thumb%20For%20UI%20Demo.png" height="175px"/></a>
+    <details><summary>Read more...</summary></br>
+    <p>This demonstration video includes basic Shell commands execution and the chatterBot conversation test.<hr></hr></p></details>
 
-
-## Feature And Performance Test Results
-
-![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_2.png)
-
-![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_3.png)
-
-**>Responsive Buttons**
-
-![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_4.png)
-
-**>Resources Usage Test**
-
-![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_5.png)
-
-**>Transparency Test**
 
 ---
 
