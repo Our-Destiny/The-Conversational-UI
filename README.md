@@ -150,7 +150,7 @@ npm start
     <hr></hr>
     <a><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Test_1.jpg" height="175px"/></a>
     <details><summary>Read more...</summary></br>
-    <p>The basic user interface is made clean slate with minimal windowsize and transparent background. The GUI consists of a text input label box which is button free so that you can enter the commands directly     using the "Enter" key. The minimalistic GUI with lower opacity helps to work as overlay on your workspace across the desktop when you needed her. The glowy Sci-fi look makes it Futuristic.<hr></hr></p></details>
+    <p>The basic user interface is made clean slate with minimal windowsize and transparent background. The GUI consists of a text input label box which is button free so that you can enter the commands directly using the "Enter" key. The minimalistic GUI with lower opacity helps to work as overlay on your workspace across the desktop when you needed her. The glowy Sci-fi look makes it Futuristic.<hr></hr></p></details>
 
 <br />
 
@@ -158,12 +158,21 @@ npm start
     <hr></hr>
     <a><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Test_5.png" height="175px"/></a>
 
+<br />
+
 > **`Test Run Video - Click on the thumbnail to Watch (Inclusive of ChatterBot)`** 
     <hr></hr>
     <a href="https://drive.google.com/file/d/1NmHWfySrdFPR8IZYOe3mE4F07nwmu1_z/view?usp=sharing"><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Video-Thumb-For-UI-Demo.png" height="175px"/></a>
     <details><summary>Read more...</summary></br>
     <p>This demonstration video includes basic Shell commands execution and the chatterBot conversation test.<hr></hr></p></details>
 
+<br />
+
+> **`Destiny's Resource Usage Analysis`** 
+    <hr></hr>
+    <a><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Test_4.png" height="175px"/></a>
+    <details><summary>Read more...</summary></br>
+    <p>The GUI only allocated 20mb of Ram for the current test run as the functions are minimal. There might be chances of slight increase in resource consumption when background monitoring and additional functions starts to be implemented. This beta version is not the final review for how the interfaces are to be like. Stay tuned for further updates.<hr></hr></p></details>
 
 ---
 
