@@ -170,8 +170,9 @@ npm start
 |-------------------------|-----------------------------------------|
 | **Operating systems**   | Linux & Windows                         |
 | **Python versions**     | Python 3.7.6 (64-bit)                   |
+| **Node.js versions**    | Node 14.4.0 - Higher (64-bit) or LTS    |
 | **Distros**             | Ubuntu, Windows 8, 8.1 Pro, 10 (All Distros)         |
-| **Package managers**    | APT, pip                                |
+| **Package managers**    | APT, pip, npm                           |
 | **Languages**           | English                                 |
 | **System requirements** | 2GB of free RAM, Intel i3 - Any Higher  |
 |                         |                                         |
