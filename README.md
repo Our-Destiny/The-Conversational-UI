@@ -28,6 +28,8 @@ The goal was to create a Cross-Platform supported Graphical Conversational User 
 - [Destiny_FrameWork (Reffered To As : Front-End)](https://en.wikipedia.org/wiki/Framework)
 - [Destiny_Main_Frame (Reffered To As : Back-End)](https://en.wikipedia.org/wiki/Mainframe_computer)
 
+Integrating ChatterBot and its corpus into Destiny's Main_Frame opened-up new possibilites to testing and tweaking around with the Framework, which helped us understand more of having the need for a User Interface. Checkout our Work Below to know more.
+
 ---
 
 ## Built-in Commands
