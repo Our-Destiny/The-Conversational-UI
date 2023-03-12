@@ -142,11 +142,10 @@ npm start
 ---
 
 
-## Screenshots
+## Test Results
 
-![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_1.jpg)
-
-**>GUI Basic Appearence**
+> **GUI Basic Appearence** <details><summary>Know more about our derivation...</summary></br>
+    <p><a href="no"><img width="100%" height="auto" src="https://github.com/Our-Destiny/The-Conversational-UI/blob/main/Screeshots/Test_1.jpg" height="175px"/></a><hr></hr></p></details>
 
 ## Feature And Performance Test Results
 
@@ -163,6 +162,8 @@ npm start
 ![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_5.png)
 
 **>Transparency Test**
+
+---
 
 ## Supported Environments
 
