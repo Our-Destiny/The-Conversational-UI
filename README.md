@@ -6,7 +6,7 @@
     <img alt="Build" src="https://img.shields.io/badge/build-passed-success">
     <img alt="Contributors" src="https://img.shields.io/badge/contributors-2-blue">
     <img alt="Status" src="https://img.shields.io/badge/status-working-success">
-    <img alt="Status" src="https://img.shields.io/badge/current%20release-v0.08%20to%20v0.1.0-informational">
+    <img alt="Status" src="https://img.shields.io/badge/current%20release-v0.0.8%20to%20v0.1.0-informational">
     <img alt="Status" src="https://img.shields.io/badge/progress-discontinued-important">
 </p>
 
